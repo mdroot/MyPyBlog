@@ -3,11 +3,8 @@
 Flaskr
 ~~~~~~
 
-A microblog example application written as Flask tutorial with
-Flask and sqlite3.
+flaskr sample 
 
-:copyright: (c) 2010 by Armin Ronacher.
-:license: BSD, see LICENSE for more details.
 """
 
 from sqlite3 import dbapi2 as sqlite3
